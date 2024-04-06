@@ -1,0 +1,14 @@
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos_csharp\AbstraindoCelularPOO\obj\Debug\net7.0\AbstraindoCelularPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos_csharp\AbstraindoCelularPOO\obj\Debug\net7.0\AbstraindoCelularPOO.AssemblyInfoInputs.cache
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos_csharp\AbstraindoCelularPOO\obj\Debug\net7.0\AbstraindoCelularPOO.AssemblyInfo.cs
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos_csharp\AbstraindoCelularPOO\obj\Debug\net7.0\AbstraindoCelularPOO.csproj.CoreCompileInputs.cache
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos_csharp\AbstraindoCelularPOO\bin\Debug\net7.0\AbstraindoCelularPOO.exe
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos_csharp\AbstraindoCelularPOO\bin\Debug\net7.0\AbstraindoCelularPOO.deps.json
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos_csharp\AbstraindoCelularPOO\bin\Debug\net7.0\AbstraindoCelularPOO.runtimeconfig.json
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos_csharp\AbstraindoCelularPOO\bin\Debug\net7.0\AbstraindoCelularPOO.dll
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos_csharp\AbstraindoCelularPOO\bin\Debug\net7.0\AbstraindoCelularPOO.pdb
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos_csharp\AbstraindoCelularPOO\obj\Debug\net7.0\AbstraindoCelularPOO.dll
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos_csharp\AbstraindoCelularPOO\obj\Debug\net7.0\refint\AbstraindoCelularPOO.dll
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos_csharp\AbstraindoCelularPOO\obj\Debug\net7.0\AbstraindoCelularPOO.pdb
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos_csharp\AbstraindoCelularPOO\obj\Debug\net7.0\AbstraindoCelularPOO.genruntimeconfig.cache
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos_csharp\AbstraindoCelularPOO\obj\Debug\net7.0\ref\AbstraindoCelularPOO.dll
